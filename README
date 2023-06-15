@@ -1,1 +1,4 @@
 Markov Algorithm Interpreter written in C++ by Masashi Kiyomi
+
+Files *.ma are examples. You can test them like
+$ ./markov -v add_num.ma '46+862'
